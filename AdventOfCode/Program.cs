@@ -27,6 +27,12 @@
             string pairs = File.ReadAllText("4.txt");
             Console.WriteLine("Overlaping pairs: " + Day4.Overlaps(pairs));
             Console.WriteLine("Overlaping pairs (part 2): " + Day4.Overlaps2(pairs));
+
+            // #5
+            Console.WriteLine("#5");
+            string initConfig = File.ReadAllText("5.txt");
+            Console.WriteLine("Stack Tops: " + Day5.CrateRearangement(initConfig));
+            Console.WriteLine("Stack Tops (part 2): " + Day5.CrateRearangement2(initConfig));
         }
     }
 }
