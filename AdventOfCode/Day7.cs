@@ -36,6 +36,7 @@ namespace AdventOfCode
             Files.Add(new Tuple<string, int>(name, size));
         }
     }
+    
     internal class Day7
     {
         public static Dir GetDirTreeRoot(string console)
