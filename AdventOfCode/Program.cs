@@ -33,6 +33,18 @@
             string initConfig = File.ReadAllText("5.txt");
             Console.WriteLine("Stack Tops: " + Day5.CrateRearangement(initConfig));
             Console.WriteLine("Stack Tops (part 2): " + Day5.CrateRearangement2(initConfig));
+
+            // #6
+            Console.WriteLine("#6");
+            string data = File.ReadAllText("6.txt");
+            Console.WriteLine("Marker Position: " + Day6.GetMarkerPosition(data, 4));
+            Console.WriteLine("Marker Position (part 2): " + Day6.GetMarkerPosition(data, 14));
+
+            // #7
+            Console.WriteLine("#7");
+            string console = File.ReadAllText("7.txt");
+            Console.WriteLine("Dirs with max size (100000): " + Day7.DirectoriesToDelete(console, 100000));
+            Console.WriteLine("Smallest dir to delete: " + Day7.SmallestDirectoryToDelete(console, 70000000, 30000000));
         }
     }
 }

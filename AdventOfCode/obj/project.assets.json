@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\D4vEOFF\\.nuget\\packages\\": {}
+    "C:\\Users\\david\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Osobní\\Práce\\ProgramovaniASite\\C#\\Advent-Of-Code-2022\\AdventOfCode\\AdventOfCode.csproj",
+      "projectUniqueName": "D:\\SYNC\\Osobni\\Práce\\ProgramovaniASite\\C#\\Advent-Of-Code-2022\\AdventOfCode\\AdventOfCode.csproj",
       "projectName": "AdventOfCode",
-      "projectPath": "D:\\Osobní\\Práce\\ProgramovaniASite\\C#\\Advent-Of-Code-2022\\AdventOfCode\\AdventOfCode.csproj",
-      "packagesPath": "C:\\Users\\D4vEOFF\\.nuget\\packages\\",
-      "outputPath": "D:\\Osobní\\Práce\\ProgramovaniASite\\C#\\Advent-Of-Code-2022\\AdventOfCode\\obj\\",
+      "projectPath": "D:\\SYNC\\Osobni\\Práce\\ProgramovaniASite\\C#\\Advent-Of-Code-2022\\AdventOfCode\\AdventOfCode.csproj",
+      "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+      "outputPath": "D:\\SYNC\\Osobni\\Práce\\ProgramovaniASite\\C#\\Advent-Of-Code-2022\\AdventOfCode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\D4vEOFF\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
